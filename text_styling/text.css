@@ -1,0 +1,41 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-family: monaco;
+    font-size: 40px;
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.cloud {
+    color: aqua;
+    background-color: black;
+    font-family: monaco;
+    font-size: 40px;
+    text-align: left;
+}
+
+
+h3 {
+    color: white;
+    background-color: purple;
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+    line-height: 2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h4 {
+    color: black;
+    background-color: deepskyblue;
+    font-family: arial;
+    font-size: 20px;
+    text-align: right;
+    text-decoration: underline;
+    line-height: 2;
+    padding-top: 0;
+    margin-top: 5px;
+}
