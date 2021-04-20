@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+}
+
+.firstline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+
+}
+
+.linetwo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+}
+
+.thirdline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+img {
+    margin: 10px 50px;
+    height: 200px;
+    background-color: white;
+}
