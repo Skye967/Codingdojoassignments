@@ -1,0 +1,75 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    border: 1px solid grey;
+    height: 250px;
+    width: 500px;
+    position: absolute center;
+    top: 50px;
+    margin: auto;
+    background-color: none;
+
+
+}
+
+.wrap {}
+
+.top {
+    background-color: darkcyan;
+    height: 80px;
+}
+
+.profile {
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 25px;
+}
+
+.bottom {
+    position: relative;
+    bottom: 45px;
+    margin-left: 20px;
+    height: 157px;
+    font-size: 14;
+
+}
+
+.seattle {
+    position: relative;
+    bottom: 10;
+    font-size: 14;
+}
+
+.pin {
+    height: 14px;
+    margin-right: 8px;
+    position: relative;
+
+
+}
+
+.one {
+    position: relative;
+    bottom: 20px;
+}
+
+.two {
+    position: relative;
+    bottom: 35px;
+}
+
+.setting {
+    height: 14px;
+    position: relative;
+    bottom: 28px;
+    margin-right: 5px;
+}
+
+.edit {
+    position: absolute;
+    bottom: 25px;
+}

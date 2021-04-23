@@ -1,0 +1,245 @@
+* {}
+
+#maincontainer {
+    display: flex;
+    flex-direction: row;
+    border: 5px solid black;
+    width: 1000px;
+    justify-content: center;
+
+
+}
+
+.subcontainer1 {
+    height: 900px;
+    width: 450px;
+}
+
+.subcontainer2 {
+    height: 900px;
+    width: 250px;
+    margin-top: 20px;
+
+
+}
+
+.container1 {
+    border-radius: 5%;
+    border: 5px solid gray;
+    height: 240px;
+    width: 400px;
+    margin: 20px;
+    padding: 10px 0px 0px 0px;
+
+}
+
+.container2 {
+    border-radius: 5%;
+    border: 5px solid gray;
+    height: 170px;
+    width: 400px;
+    margin: 20px;
+    margin-top: 10px;
+    padding: 0px:
+}
+
+.container3 {
+    border-radius: 5%;
+    border: 5px solid gray;
+    height: 190px;
+    width: 200px;
+    margin-bottom: 10px;
+
+
+}
+
+.container4 {
+    border-radius: 5%;
+    border: 5px solid gray;
+    height: 240px;
+    width: 200px;
+}
+
+.blueheader {
+    height: 70px;
+    background-color: darkcyan;
+    position: relative;
+    bottom: 10px;
+}
+
+.user img {
+    position: absolute;
+    bottom: 530px;
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+}
+
+h1 {
+
+    margin-left: 10px;
+}
+
+.div1 {
+    height: ;
+    margin-left: 10px;
+    padding: 0px
+}
+
+.div1 p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.grayheader {
+    background-color: rgb(59, 58, 58);
+    color: white;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 8px;
+    height: 40px;
+}
+
+.CD>* {
+    padding: 8px;
+    margin: 0px;
+}
+
+] h2 {
+    font-size: larger;
+}
+
+.graytext {
+    color: darkgray;
+}
+
+#two {
+    border-radius: 50%;
+    background-color: lightgray;
+    padding: 4px 8px;
+    margin-right: 10px;
+
+}
+
+.CRdiv .pic {
+    margin: 0px 10px;
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+
+}
+
+.x1 {
+    margin-left: 10px;
+}
+
+.x2 {
+    margin-left: 10px;
+}
+
+.check1 {
+    margin-left: 20px;
+}
+
+.check2 {
+    margin-left: 25px;
+}
+
+.grayheader span {
+    background-color: lightgray;
+    color: black;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.C4img p {
+    margin: 5px;
+    padding: 0px;
+}
+
+.C4img img {
+    margin: 0px 10px;
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.C4img a {
+    margin-left: 10px;
+}
+
+.last {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.anchor {
+    color: blue;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.marker {
+    margin-right: 10px;
+}
+
+.nav {
+    display: flex;
+    flex: 10;
+    justify-content: space-between;
+    background-color: rgb(70, 67, 67);
+    color: white;
+
+}
+
+.nav-title {
+    margin-left: 20px;
+    font-family: monaco;
+}
+
+.nav-links {
+    display: flex;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0px 10px;
+    padding: 0px 10px;
+    list-style: none;
+
+}
+
+a {
+    color: rgb(204, 195, 195);
+    margin: 0px 5px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: monaco;
+}
+
+.btn {
+    background-color: cornflowerblue;
+    border: solid;
+    border-color: black;
+    color: white;
+    padding: 5px 10px;
+    box-shadow: 5px 5px black;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+    font-size: 14px;
+    width: 150px;
+}
+
+.active {
+    color: white;
+}
+
+#gear {
+    position: relative;
+    right: 5px
+}
